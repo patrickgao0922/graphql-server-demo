@@ -11,6 +11,10 @@
     "MongoDB"
   ],
   "author": "Patrick Gao <patrickgao0922@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrickgao0922/graphql-server-demo.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.0",
